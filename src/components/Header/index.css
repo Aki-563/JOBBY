@@ -1,0 +1,49 @@
+.header-container {
+  display: flex;
+  background-color: rgb(53, 53, 53);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.2);
+  border-bottom: solid;
+  border-width: 1px;
+  border-color: rgb(120, 120, 120);
+}
+.header-contents {
+  width: 90%;
+  max-width: 1100px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  list-style-type: none;
+  padding: 0;
+
+}
+.header-tabs-container {
+  display: flex;
+  gap: 15px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.logout-button {
+  color: rgb(255, 255, 255);
+  background-color: #4f46e5;
+  border: none;
+  border-radius: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 30px;
+}
+.header-tab {
+  cursor: pointer;
+}
+.link {
+  text-decoration: none;
+  color: white;
+}
