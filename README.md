@@ -2,10 +2,14 @@
 
 Jobby is a React-based job search application that simulates a real-world job portal. It allows users to log in, browse job listings with advanced filtering options, and view detailed information about specific job roles.
 
-demo: https://akil5jobby.ccbp.tech/
+## 🚀 Live Demo
+🔗 **[Launch Jobby App](https://akil5jobby.ccbp.tech/login)**
 
-username: henry
-password: henry_the_developer
+### 🔐 Demo Credentials
+* **Username:** `henry`
+* **Password:** `henry_the_developer`
+
+---
 
 ## 🚀 Features
 
